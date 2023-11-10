@@ -1,0 +1,4 @@
+open Firefox: firefox                                                                           
+open chromium: chromium
+open Terminal: gnome-terminal
+shut down computer: shutdown -h now
